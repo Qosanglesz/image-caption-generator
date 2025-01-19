@@ -9,7 +9,8 @@ An AI-powered web application that generates captions for images using Hugging F
 - 🌐 Uses Hugging Face's **BLIP model**
 
 ## 📸 Demo
-![Demo Screenshot](demo.png)
+![image](https://github.com/user-attachments/assets/7798f85f-2f50-4c82-b916-d6263556dfcf)
+
 
 ## 🛠️ Installation
 
