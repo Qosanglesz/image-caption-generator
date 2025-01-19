@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import axios from "axios";
 
 const API_URL = "https://api-inference.huggingface.co/models/Salesforce/blip-image-captioning-base";
-const HF_API_KEY = process.env.HF_API_KEY as string;
+const HF_API_KEY = process.env.NEXT_PUBLIC_HF_TOKEN as string;
 
 export async function POST(req: Request) {
     try {
